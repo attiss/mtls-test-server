@@ -1,2 +1,4 @@
 test-certs/*
 mtls-test-server
+cert-bundle/*
+!cert-bundle/generate.sh
